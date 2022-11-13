@@ -1,0 +1,9 @@
+.container{
+    width: 400px;
+    margin-top: 50px ;
+    margin-bottom: 50px;
+}
+.input-group-lg{
+    width: 500px;
+    margin-left: 0px;
+}

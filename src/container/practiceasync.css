@@ -1,0 +1,13 @@
+.form-control{
+    width: 300px;
+}
+.input{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.button{
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: blueviolet;
+    color: white;
+}

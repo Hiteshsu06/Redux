@@ -1,0 +1,12 @@
+nav ul li{
+    list-style: none;
+}
+nav ul{
+    display: flex;
+    margin-left: 500px;
+}
+nav ul li a{
+    margin-left: 50px;
+    text-decoration: none;
+    color: blueviolet;
+}
